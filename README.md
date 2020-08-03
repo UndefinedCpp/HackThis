@@ -9,6 +9,14 @@ A series of hacking games
 - Post the key to issues.
 
 The first person got the key will be added to "Super Hacker" list!
+## Hints
+You may use these tools below:
+- OllyDbg (OD)
+- IDA
+- Wireshark
+- Cheat Engine (CE)
+- A browser (Chrome, Firefox...)
+- etc
 ## Progress
 Now I'm still working on. <code>Part 1</code> is nearly ready!
 
@@ -27,5 +35,5 @@ No, you'd better not - just lose some fun.
 
 Then you got the wrong way - or you'd better learn some hacking skills and tools.
 
-# If you think it's good, please STAR and WATCH!
-# If you find any bugs which will break the balance, please tell me via issues!
+## If you think it's good, please STAR! (All i need is your support!)
+## Any bug reports please send to issues!
