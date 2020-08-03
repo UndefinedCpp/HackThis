@@ -25,15 +25,14 @@ I planned to produce three parts:
 2. Normal
 3. Experts
 # About Source and Tips
-- When will you open source and show me the tips?
-
-If someone hacked it out, I will open the source 2 weeks later. But if there's less than 200 stars, I will not.
 - Can I cheat?
 
 No, you'd better not - just lose some fun.
 - I worked hard and cannot discover it!
 
 Then you got the wrong way - or you'd better learn some hacking skills and tools.
+- You made some mistakes in level xxx!
 
+No-I'm sure there's not. If it really exists, please send a bug report to issues.
 ## If you think it's good, please STAR! (All i need is your support!)
 ## Any bug reports please send to issues!
